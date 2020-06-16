@@ -6,5 +6,11 @@ public void Classse(){
 		System.out.println("Hello Git");
 	}
 
+	public void(){
+	
+	System.out.println("Novo metodo");
+
+	}
+
 
 }
